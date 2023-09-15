@@ -2,7 +2,7 @@
 
 
 
-# Introdução - _Lista de Tarefas_
+# Introdução - ![logo](img/terafas-sem-fundo.png)
 
 <p align="center">
   <img src="https://github.com/DaniloFelype/projeto-array/blob/main/img/tarefas-fundo.png">
