@@ -8,9 +8,9 @@
   <img src="https://github.com/DaniloFelype/projeto-array/blob/main/img/tarefas-fundo.png">
 </p>
 
-+ O projeto tem como finalidade a concepção de uma lista de tarefas destinada a aprimorar a organização do usuário.
+``+`` O projeto tem como finalidade a concepção de uma lista de tarefas destinada a aprimorar a organização do usuário.
 
-+ Este é um projeto simples de uma Lista de Tarefas implementada em HTML, que permite aos usuários organizar suas tarefas de maneira eficiente. A aplicação é composta pelos seguintes elementos:
+``+`` Este é um projeto simples de uma Lista de Tarefas implementada em HTML, que permite aos usuários organizar suas tarefas de maneira eficiente. A aplicação é composta pelos seguintes elementos:
 
 Título da Página: "Lista de Tarefas"
 
